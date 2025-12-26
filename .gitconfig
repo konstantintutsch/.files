@@ -1,0 +1,20 @@
+[init]
+    defaultBranch=main
+
+[user]
+    email=mail@konstantintutsch.com
+    name=Konstantin Tutsch
+    signingkey=E0A96A348BBF2168D7A9738CF0FA03327B0E8716
+
+[commit]
+    gpgsign=true
+
+[gpg]
+    program=gpg2
+
+[merge]
+    ff=false
+    commitMessage="merge: "
+
+[format]
+    signoff=true

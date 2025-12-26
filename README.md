@@ -1,3 +1,3 @@
-# nvim
+# .files
 
-NeoVim configuration
+*dotfiles*
