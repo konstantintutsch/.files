@@ -2,3 +2,6 @@ theme = tomorrow
 window-theme = light
 
 font-family = "FiraCode Nerd Font"
+
+# Compatibility (when SSHing)
+term = xterm-256color
