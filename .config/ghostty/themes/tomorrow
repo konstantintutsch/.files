@@ -1,5 +1,5 @@
-# Theme=https=//github.com/chriskempson/tomorrow-theme
-# ANSI Color Matching=https=//github.com/chriskempson/tomorrow-theme/blob/master/Xdefaults/Tomorrow
+# Theme: https://github.com/chriskempson/tomorrow-theme
+# ANSI Color Matching: https://github.com/chriskempson/tomorrow-theme/blob/master/Xdefaults/Tomorrow
 
 background = #ffffff
 foreground = #60605f
