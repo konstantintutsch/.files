@@ -3,7 +3,7 @@ command = /bin/zsh
 theme = tomorrow
 window-theme = light
 
-font-family = "FiraCode Nerd Font"
+font-family = "Fira Code"
 
 # Compatibility (when SSHing)
 term = xterm-256color
