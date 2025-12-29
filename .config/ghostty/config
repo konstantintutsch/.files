@@ -1,3 +1,5 @@
+command = /bin/zsh
+
 theme = tomorrow
 window-theme = light
 
