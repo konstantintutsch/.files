@@ -10,11 +10,9 @@ alias clean-exifdata='exiftool -all:all= -tagsfromfile @ -exif:Orientation -Arti
 
 # Einstellungen
 export EDITOR="${HOMEBREW_PREFIX}/bin/nvim"
-export PATH=$PATH:'~/Code/Scripts':'~/.local/bin'
+export PATH=$PATH:'~/Code/Scripts'
+
 PROMPT=" %F{cyan}%B%~%b%f "
-export LS_COLORS='di=01;31:ln=91'
-export GPG_TTY=$(tty)
-alias ncdu='ncdu --color=dark'
 
 # Erweiterungen
 eval "$(zoxide init --cmd cd zsh)"
