@@ -6,8 +6,8 @@ window-theme = light
 font-family = "Fira Code"
 font-size = 14
 
-window-height = 45
-window-width = 150
+window-height = 50
+window-width = 175
 
 # Compatibility (when SSHing)
 term = xterm-256color
