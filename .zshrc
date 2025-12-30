@@ -10,7 +10,7 @@ alias clean-exifdata='exiftool -all:all= -tagsfromfile @ -exif:Orientation -Arti
 
 # Einstellungen
 export EDITOR="${HOMEBREW_PREFIX}/bin/nvim"
-export PATH=$PATH:'~/Code/Scripts'
+export PATH=$PATH:"${HOME}/Code/Scripts"
 
 PROMPT=" %F{cyan}%B%~%b%f "
 
