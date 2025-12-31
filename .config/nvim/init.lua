@@ -1,6 +1,6 @@
-require("config.lazy")
-
 require("konstantin")
+
+require("config.lazy")
 
 -- LSP
 vim.lsp.enable("clangd")

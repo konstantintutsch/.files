@@ -1,4 +1,5 @@
 vim.g.mapleader = " "
+vim.g.maplocalleader = ","
 
 -- terminal
 vim.keymap.set("n", "<leader>t", function()
