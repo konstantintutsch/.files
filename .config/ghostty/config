@@ -1,6 +1,6 @@
 command = /bin/zsh
 
-theme = tomorrow
+theme = Tomorrow
 window-theme = light
 
 font-family = "Fira Code"
