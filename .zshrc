@@ -16,3 +16,8 @@ PROMPT=" %F{cyan}%B%~%b%f "
 
 # Erweiterungen
 eval "$(zoxide init --cmd cd zsh)"
+
+# Anzeige in neuer Sitzung
+printf "\n\n"
+fastfetch
+printf "\n\n"

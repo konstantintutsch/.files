@@ -1,0 +1,21 @@
+{
+    "modules": [
+        "title",
+        "separator",
+        "host",
+        "os",
+        "uptime",
+        "terminal",
+        "shell",
+        "cpu",
+        "gpu",
+        "memory",
+        "disk",
+        "battery",
+        "poweradapter",
+        "break",
+        "break",
+        "datetime",
+        "weather"
+    ]
+}
