@@ -6,7 +6,7 @@ alias ls='ls --color=always'
 alias ssh-gen-new='ssh-keygen -t ed25519 -f ~/.ssh/id_ed25519 -C "$HOSTNAME"'
 
 # Bilder
-alias clean-exifdata='exiftool -all:all= -tagsfromfile @ -exif:Orientation -Artist -Copyright -r -overwrite_original'
+alias clean-exifdata='exiftool -all:all= -tagsfromfile @ -exif:Orientation -Artist -Copyright -Title -Description -r -overwrite_original'
 
 # Einstellungen
 export EDITOR="${HOMEBREW_PREFIX}/bin/nvim"
