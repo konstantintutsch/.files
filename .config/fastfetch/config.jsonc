@@ -3,7 +3,10 @@
         "height": 16
     },
     "modules": [
-        "title",
+        {
+            "type": "title",
+            "format": "{user-name-colored}{at-symbol-colored}💻"
+        },
         "separator",
         "host",
         "os",
