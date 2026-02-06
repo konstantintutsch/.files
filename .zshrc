@@ -7,6 +7,7 @@ alias ls='ls --color=always'
 # Einstellungen
 export EDITOR="${HOMEBREW_PREFIX}/bin/nvim"
 export PATH=$PATH:"${HOME}/Code/Scripts":"${HOME}/.cargo/bin"
+export GPG_TTY=$(tty) # fixes occasional error to find terminal for pinentry
 
 PROMPT=" %F{cyan}%B%~%b%f "
 
