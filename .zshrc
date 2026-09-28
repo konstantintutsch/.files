@@ -6,7 +6,7 @@ alias ls='ls --color=always'
 
 # Einstellungen
 export EDITOR="${HOMEBREW_PREFIX}/bin/nvim"
-export PATH=$PATH:"${HOME}/Code/Scripts":"${HOME}/.cargo/bin"
+export PATH=$PATH:"${HOME}/Code/Scripts":"${HOME}/.cargo/bin":"${HOME}/Library/Application Support/Garmin/ConnectIQ/Sdks/connectiq-sdk-mac-9.2.0-2026-06-09-92a1605b2/bin"
 export GPG_TTY=$(tty) # fixes occasional error to find terminal for pinentry
 
 parse_git_branch() {
